@@ -10,7 +10,7 @@ Our Automatic_Trading_System_and_Backtesting follows the following logic:
 
 Define the quantitative trading strategy -> Customize the stock pool -> Prepare historical market data -> Implement the strategy -> Conduct backtesting -> Conduct data analysis.
 
-Use the quantitative trading strategy to conduct backtesting on a single stock, and visualize the backtesting results (strategy profit trend, maximum drawdown), and present the trading log (trading date, buy/sell price, trading amount, profit situation - amount/drawdown).
+Use the quantitative trading strategy to conduct backtesting on a single stock or mutual fund, and visualize the backtesting results (strategy profit trend, maximum drawdown), and present the trading log (trading date, buy/sell price, trading amount, profit situation - amount/drawdown).
 Use the quantitative trading strategy to conduct backtesting on multiple stocks (customizable stock pool), visualize the backtesting results (total strategy profit trend, maximum drawdown), and present the trading log (trading date, buy/sell price, trading amount, profit situation - amount/drawdown).
 Optimize the strategy. If there are flaws in the original strategy or the profits do not meet expectations, appropriate fitting will be conducted to achieve optimization goals.
 If the strategy is found to be valid, develop an automatic reminder function to monitor the market trends of individual stocks in the stock pool.
